@@ -12,7 +12,7 @@ const Login = () => {
   return (
     <div className={styles.loginPage}>
       <div className={styles.loginCard}>
-        <h2>Welcome to Botogram!</h2>
+        <h2>Welcome to youChat !</h2>
 
         <div
           className={styles.button}
